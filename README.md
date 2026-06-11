@@ -1,4 +1,4 @@
-Sales Performance Dashboard
+=====Sales Performance Dashboard====
 
 Project Overview
 Interactive Excel dashboard for analysing sales performance across cities, products, and months.
