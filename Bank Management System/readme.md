@@ -21,7 +21,7 @@ This project is an Excel-based Sales Performance Dashboard created to analyze sa
 * Pivot Charts
 * Excel Formulas
 
-## Key Insights
+ Key Insights
 
 * Top Product: Laptop
 * Top Performing Region: North
