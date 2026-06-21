@@ -4,7 +4,7 @@
 
 This project is an Excel-based Sales Performance Dashboard created to analyze sales data and visualize key business metrics.
 
- Features
+## Features
 
 * Total Revenue Analysis
 * Total Orders Tracking
