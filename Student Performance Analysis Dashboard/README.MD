@@ -25,3 +25,5 @@ This project analyzes student academic performance and attendance using Microsof
 
 ## Skills Demonstrated
 Data Cleaning, Data Analysis, Excel Functions, Pivot Tables, Dashboard Creation, Business Reporting.
+
+## Author
