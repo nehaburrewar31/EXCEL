@@ -27,3 +27,4 @@ This project analyzes student academic performance and attendance using Microsof
 Data Cleaning, Data Analysis, Excel Functions, Pivot Tables, Dashboard Creation, Business Reporting.
 
 ## Author
+Neha Burrewar
