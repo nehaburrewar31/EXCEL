@@ -35,6 +35,6 @@ This project is an Excel-based Sales Performance Dashboard created to analyze sa
 * `dashboard.png`
 * `README.md`
 
-## Author
+ Author
 
 Neha Burrewar
