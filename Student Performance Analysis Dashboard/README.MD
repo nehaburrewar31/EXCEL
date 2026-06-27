@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes student academic performance and attendance using Microsoft Excel.
 
-Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
