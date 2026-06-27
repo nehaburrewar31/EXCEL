@@ -24,3 +24,4 @@ Interactive Excel dashboard for analysing sales performance across cities, produ
 **Files Included**
 * Sales_Dashboard.xlsx
 * Dashboard_Screenshot.png
+## Author
