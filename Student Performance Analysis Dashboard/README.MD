@@ -16,7 +16,7 @@ This project analyzes student academic performance and attendance using Microsof
 - Compared performance across courses.
 - Monitored attendance trends.
 
- Dashboard Features
+ ## Dashboard Features
 - Total Students KPI
 - Average Marks KPI
 - Pass Percentage KPI
