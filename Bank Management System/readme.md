@@ -14,7 +14,7 @@ This project is an Excel-based Sales Performance Dashboard created to analyze sa
 * Sales Person Performance Analysis
 * Interactive Dashboard with Charts
 
- Tools Used
+ ## Tools Used
 
 * Microsoft Excel / WPS Spreadsheet
 * Pivot Tables
