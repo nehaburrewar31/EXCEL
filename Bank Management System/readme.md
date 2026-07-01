@@ -1,6 +1,5 @@
  ## Sales Performance Dashboard
-
-## Overview
+ Overview
 
 This project is an Excel-based Sales Performance Dashboard created to analyze sales data and visualize key business metrics.
 
